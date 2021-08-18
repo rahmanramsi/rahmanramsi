@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @rahmanramsi
-- 🌱 I’m currently learning flutter
-- 📫 Contact me on rahmanramsi19@gmail.com if you something on me.
+Full Stack Developer on @openjournalteam
 
 <!---
 rahmanramsi/rahmanramsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
