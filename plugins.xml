@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<plugins xmlns="http://pkp.sfu.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pkp.sfu.ca plugins.xsd">
+	<plugin category="themes" product="academicFree">
+		<name locale="en">Academic Free Theme</name>
+		<name locale="en_US">Academic Free Theme</name>
+		<homepage>https://github.com/openjournalteam/academicFree</homepage>
+		<summary locale="en">Academic Free Theme by openjournaltheme.com</summary>
+		<summary locale="en_US">Academic Free Theme by openjournaltheme.com</summary>
+		<description locale="en"><![CDATA[Academic Free Theme created by <a href="https://openjournaltheme.com" target="_blank">openjournaltheme.com</a>]]></description>
+		<description locale="en_US"><![CDATA[Academic Free Theme created by <a href="https://openjournaltheme.com" target="_blank">openjournaltheme.com</a>]]></description>
+		<maintainer>
+			<name>Open Journal Theme Team</name>
+			<institution>Open Journal Theme</institution>
+			<email>support@openjournaltheme.com</email>
+		</maintainer>
+		<release date="2024-02-29" version="3.3.1.1" md5="e005d0763540a0027de6ab36e3bf267f">
+			<package>https://github.com/openjournalteam/academicFree/releases/download/v3_3_1-1/academicFree-v3_3_1-1.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.2.1.1</version>
+				<version>3.2.1.2</version>
+				<version>3.2.1.3</version>
+				<version>3.2.1.4</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>3.3.0.16</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="reviewed" />
+			<description>Initial release on OJS Plugin Gallery</description>
+		</release>
+	</plugin>
+	<plugin category="generic" product="fixMicrosoftEmail">
+		<name locale="en">Fix Microsoft Email Plugin</name>
+		<name locale="en_US">Fix Microsoft Email Plugin</name>
+		<homepage>https://github.com/openjournalteam/fixMicrosoftEmail</homepage>
+		<summary locale="en">This plugin is a workaround to fix Microsoft Email client.</summary>
+		<summary locale="en_US">This plugin is a workaround to fix Microsoft Email client.</summary>
+		<description locale="en"><![CDATA[<p>Microsoft Email doesn't allow to send email with send as email address. By default, OJS will send email with the user email address as the sender. This will cause an error when sending an email using Microsoft Email client. </p><p>This plugin is created to fix the error when sending an email using Microsoft Email SMTP configuration.</p>]]></description>
+		<description locale="en_US"><![CDATA[<p>Microsoft Email doesn't allow to send email with send as email address. By default, OJS will send email with the user email address as the sender. This will cause an error when sending an email using Microsoft Email client. </p><p>This plugin is created to fix the error when sending an email using Microsoft Email SMTP configuration.</p>]]></description>
+		<maintainer>
+			<name>Open Journal Theme Team</name>
+			<institution>Open Journal Theme</institution>
+			<email>support@openjournaltheme.com</email>
+		</maintainer>
+		<release date="2024-04-17" version="1.0.0.0" md5="dbb89c9e8ace1aa667cd98d871af3710">
+			<package>https://github.com/openjournalteam/fixMicrosoftEmail/releases/download/1.0.0.0/fixMicrosoftEmail.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="reviewed"/>
+			<description>Initial release on OJS Plugin Gallery</description>
+		</release>
+	</plugin>
+	<plugin category="paymethod" product="razorpay">
+		<name locale="en">RazorPay Payment Plugin</name>
+		<name locale="en_US">RazorPay Payment Plugin</name>
+		<homepage>https://github.com/openjournalteam/razorpay</homepage>
+		<summary locale="en">Payments will be processed using the RazorPay service.</summary>
+		<summary locale="en_US">Payments will be processed using the RazorPay service.</summary>
+		<description locale="en"><![CDATA[<p>Payments will be processed using the RazorPay service</p>]]></description>
+		<description locale="en_US"><![CDATA[<p>Payments will be processed using the RazorPay service</p>]]></description>
+		<maintainer>
+			<name>Open Journal Theme Team</name>
+			<institution>Open Journal Theme</institution>
+			<email>support@openjournaltheme.com</email>
+		</maintainer>
+		<release date="2024-04-20" version="1.0.0.0" md5="aab96a5d995f1347e83b1063a522b793">
+			<package>https://github.com/openjournalteam/razorpay/releases/download/1.0.0.0/razorpay.tar.gz</package>
+			<compatibility application="ojs2">
+				<version>3.3.0.0</version>
+				<version>3.3.0.1</version>
+				<version>3.3.0.2</version>
+				<version>3.3.0.3</version>
+				<version>3.3.0.4</version>
+				<version>3.3.0.5</version>
+				<version>3.3.0.6</version>
+				<version>3.3.0.7</version>
+				<version>3.3.0.8</version>
+				<version>3.3.0.9</version>
+				<version>3.3.0.10</version>
+				<version>3.3.0.11</version>
+				<version>3.3.0.12</version>
+				<version>3.3.0.13</version>
+				<version>3.3.0.14</version>
+				<version>3.3.0.15</version>
+				<version>~3.3.0.0</version>
+			</compatibility>
+			<certification type="reviewed" />
+			<description>Initial release on OJS Plugin Gallery</description>
+		</release>
+	</plugin>	
+</plugins>
